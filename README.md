@@ -33,3 +33,6 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 #Acknowledgments
 This project was inspired by the Django ecommerce tutorial on the official Django documentation website: https://docs.djangoproject.com/en/3.2/topics/testing/overview/.
+
+## NOTE ##
+Run these above codes inside the ecewebsite directory 
